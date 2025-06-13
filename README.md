@@ -69,17 +69,29 @@ This project addresses the critical challenge of shipment delays in supply chain
 
 ![Main Dashboard](screenshots/main_dashboard.png)
 
-### Prediction Interface
-
-![Prediction App](screenshots/prediction_app.png)
-
 ### Analytics Dashboard
 
 ![Analytics Dashboard](screenshots/analytics_dashboard.png)
 
-### Custom Reports
+### Project Info
 
-![Custom Reports](screenshots/custom_reports.png)
+![Project Info](screenshots/project_info.png)
+
+### Trend Analysis
+
+![Trend Analysis](screenshots/trend_analysis.png)
+
+### Performance Summary
+
+![Performance Summary](screenshots/performance_summary.png)
+
+### Prediction App
+
+![Prediction App](screenshots/prediction_app2.png)
+
+### Prediction Results
+
+![Prediction Results](screenshots/prediction_results.png)
 
 ## 🚀 Installation
 
