@@ -316,6 +316,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Streamlit for the web framework
 - Scikit-learn for machine learning algorithms
 - Plotly for interactive visualizations
+
 ---
 
 ⭐ **If you find this project helpful, please give it a star!**
