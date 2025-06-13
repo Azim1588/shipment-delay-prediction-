@@ -280,16 +280,6 @@ GET /analytics/trends
 GET /analytics/performance
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Development Setup
 
 ```bash
@@ -310,24 +300,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- DataCo Supply Chain Dataset
+- DataCo Supply Chain Dataset (https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis?resource=download)
 - Streamlit for the web framework
 - Scikit-learn for machine learning algorithms
 - Plotly for interactive visualizations
-
-## 📞 Contact
-
-- **Author**: [Your Name]
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn]
-- **GitHub**: [Your GitHub]
-
-## 🔗 Links
-
-- [Live Demo](https://your-demo-link.com)
-- [Documentation](https://your-docs-link.com)
-- [Issue Tracker](https://github.com/yourusername/shipment-delay-prediction/issues)
-
 ---
 
 ⭐ **If you find this project helpful, please give it a star!**
